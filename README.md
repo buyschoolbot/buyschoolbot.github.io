@@ -13,10 +13,9 @@
 </head>
 <body>
     <h1>Welcome to the Schoolbot Page!</h1>
-    <p>Let us know if you're interested in buying the schoolbot.</p>
+    <p>Let us know if you're interested in buying the schoolbot We will get to you quickly ASAP.</p>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -47,7 +46,6 @@
 
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
