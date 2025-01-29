@@ -76,7 +76,7 @@
             var resultText = document.getElementById("result");
 
             if (coupon === "Ilikeschoolbot") {
-                resultText.textContent = "30% Coupon Applyed";
+                resultText.textContent = "30% Coupon Applied";
                 resultText.className = "valid";
             } else {
                 resultText.textContent = "Invalid code.";
