@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Doctype HTML>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,7 +76,7 @@
             var resultText = document.getElementById("result");
 
             if (coupon === "Ilikeschoolbot") {
-                resultText.textContent = "Valid!";
+                resultText.textContent = "30% Coupon Applyed";
                 resultText.className = "valid";
             } else {
                 resultText.textContent = "Invalid code.";
