@@ -7,7 +7,7 @@
     <script>
         // This will show the message when the page loads
         window.onload = function() {
-            alert("Are you ready to buy the schoolbot???");
+            alert("Are you ready to buy the schoolbot click ok to continue???");
         };
     </script>
 </head>
