@@ -14,7 +14,6 @@
 <body>
     <h1>Welcome to the Schoolbot Page!</h1>
     <p>Let us know if you're interested in buying the schoolbot We will get to you quickly ASAP.</p>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,7 +49,6 @@
 </html>
 
 
-    <button class="buy
 </body>
 </html>
 <html lang="en">
