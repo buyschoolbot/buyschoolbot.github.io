@@ -14,35 +14,32 @@
 <body>
     <h1>Welcome to the Schoolbot Page!</h1>
     <p>Let us know if you're interested in buying the schoolbot We will get to you quickly ASAP.</p>
-</body>
-</html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buy Button</title>
     <style>
-        .green-button {
-            background-color: #4CAF50; /* Green color */
-            border: none;
+        .buy-button {
+            background-color: green;
             color: white;
-            padding: 15px 32px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
             font-size: 16px;
+            padding: 10px 20px;
+            border: none;
             cursor: pointer;
-            border-radius: 4px;
+            border-radius: 5px;
         }
 
-        .green-button:hover {
-            background-color: #45a049; /* Slightly darker green on hover */
+        .buy-button:hover {
+            background-color: darkgreen;
         }
     </style>
-    <title>Green Button Redirect</title>
 </head>
 <body>
 
-    <a href=https://cdn.prod.website-files.com/605826c62e8de87de744596e/66b32d74582ffd86a10745e7_65f00977f2b5330cc634090c_1-65f007c88e75b.webp </a>
+    <button class="buy-butt
+
 
 
 </body>
